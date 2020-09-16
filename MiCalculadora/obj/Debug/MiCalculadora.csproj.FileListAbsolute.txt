@@ -1,0 +1,13 @@
+D:\Facultad Joaco\Laboratorio 2\TP's\TP1 2.0\Trabajo Practico 1 - Nuñez Joaquin\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Facultad Joaco\Laboratorio 2\TP's\TP1 2.0\Trabajo Practico 1 - Nuñez Joaquin\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Facultad Joaco\Laboratorio 2\TP's\TP1 2.0\Trabajo Practico 1 - Nuñez Joaquin\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Facultad Joaco\Laboratorio 2\TP's\TP1 2.0\Trabajo Practico 1 - Nuñez Joaquin\MiCalculadora\bin\Debug\Entidades.dll
+D:\Facultad Joaco\Laboratorio 2\TP's\TP1 2.0\Trabajo Practico 1 - Nuñez Joaquin\MiCalculadora\bin\Debug\Entidades.pdb
+D:\Facultad Joaco\Laboratorio 2\TP's\TP1 2.0\Trabajo Practico 1 - Nuñez Joaquin\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\Facultad Joaco\Laboratorio 2\TP's\TP1 2.0\Trabajo Practico 1 - Nuñez Joaquin\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+D:\Facultad Joaco\Laboratorio 2\TP's\TP1 2.0\Trabajo Practico 1 - Nuñez Joaquin\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Facultad Joaco\Laboratorio 2\TP's\TP1 2.0\Trabajo Practico 1 - Nuñez Joaquin\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\Facultad Joaco\Laboratorio 2\TP's\TP1 2.0\Trabajo Practico 1 - Nuñez Joaquin\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Facultad Joaco\Laboratorio 2\TP's\TP1 2.0\Trabajo Practico 1 - Nuñez Joaquin\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+D:\Facultad Joaco\Laboratorio 2\TP's\TP1 2.0\Trabajo Practico 1 - Nuñez Joaquin\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Facultad Joaco\Laboratorio 2\TP's\TP1 2.0\Trabajo Practico 1 - Nuñez Joaquin\MiCalculadora\obj\Debug\MiCalculadora.pdb
