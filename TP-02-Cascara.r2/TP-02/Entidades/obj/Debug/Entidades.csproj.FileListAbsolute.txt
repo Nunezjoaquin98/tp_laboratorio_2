@@ -1,0 +1,19 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\Facultad Joaco\Laboratorio 2\TP's\TP 2\TP-02-Cascara.r2\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Facultad Joaco\Laboratorio 2\TP's\TP 2\TP-02-Cascara.r2\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Facultad Joaco\Laboratorio 2\TP's\TP 2\TP-02-Cascara.r2\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Facultad Joaco\Laboratorio 2\TP's\TP 2\TP-02-Cascara.r2\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Facultad Joaco\Laboratorio 2\TP's\TP 2\TP-02-Cascara.r2\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Facultad Joaco\Laboratorio 2\TP's\TP 2\TP-02-Cascara.r2\TP-02\Entidades\obj\Debug\Entidades.pdb
